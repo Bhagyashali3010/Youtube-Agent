@@ -13,4 +13,5 @@ langchain-google-genai
 streamlit
 faiss-cpu
 sentence-transformers
-en-core-web-sm
+# en-core-web-sm
+
